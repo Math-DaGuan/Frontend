@@ -22,4 +22,3 @@ export const useThemeStore = defineStore('theme', {
     },
   },
 });
- Hartman: "Updated store to detect system theme if no local preference exists"
